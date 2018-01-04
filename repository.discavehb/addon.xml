@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<addon id="repository.discavehb" name="DiscaveHB Repositorio" version="0.0.1" provider-name="Discave">
+	<extension point="xbmc.addon.repository" name="Discave Repositorio">
+		<info compressed="false">https://raw.githubusercontent.com/discave/repository.discavehb/master/addons.xml</info>
+		<checksum>https://raw.githubusercontent.com/discave/repository.discavehb/master/addons.xml.md5</checksum>
+		<datadir zip="true">https://raw.githubusercontent.com/discave/repository.discavehb/master/zips/</datadir>
+	</extension>
+	<extension point="xbmc.addon.metadata">
+		<summary>DiscaveHB Repo</summary>
+		<description>DiscaveHB Repositorio</description>
+		<disclaimer></disclaimer>
+		<platform>all</platform>
+	</extension>
+</addon>
